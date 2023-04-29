@@ -1,0 +1,187 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'Mark';
+    src: url('font/Mark-Pro.ttf') format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-color: #010a13;
+}
+
+
+h1 {
+    font-size: 2.5em;
+    color: #cdbe91;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+}
+
+a {
+    color: #00000000;
+    font-style: normal;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.assas {
+    left: 8%;
+    top: 35%;
+    margin-left: -100px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    height: 250px;
+    width: 250px;
+    margin-top: 1%;
+    font-family: 'Mark';
+    text-align: center;
+    color: #fffefb;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.luta {
+    left: 24%;
+    top: 35%;
+    margin-left: -100px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    height: 250px;
+    width: 250px;
+    margin-top: 1%;
+    font-family: 'Mark';
+    text-align: center;
+    color: #c4ab60;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.mago {
+    left: 40%;
+    top: 35%;
+    margin-left: -100px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    height: 250px;
+    width: 250px;
+    margin-top: 1%;
+    font-family: 'Mark';
+    text-align: center;
+    color: #c4ab60;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.adc {
+    left: 56%;
+    top: 35%;
+    margin-left: -100px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    height: 250px;
+    width: 250px;
+    margin-top: 1%;
+    font-family: 'Mark';
+    text-align: center;
+    color: #c4ab60;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.sup {
+    left: 72%;
+    top: 35%;
+    margin-left: -100px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    height: 250px;
+    width: 250px;
+    margin-top: 1%;
+    font-family: 'Mark';
+    text-align: center;
+    color: #c4ab60;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.tank {
+    left: 89%;
+    top: 35%;
+    margin-left: -100px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    height: 250px;
+    width: 250px;
+    margin-top: 1%;
+    font-family: 'Mark';
+    text-align: center;
+    color: #c4ab60;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.assas:hover {
+    filter: invert(100%) drop-shadow(0px 0px 50px rgb(255, 0, 0));
+    left: 8%;
+    top: 34%;
+    height: 260px;
+    width: 260px;
+    font-size: 0px;
+}
+
+.luta:hover {
+    filter: invert(100%) drop-shadow(0px 0px 50px rgb(255, 123, 0));
+    left: 24%;
+    top: 34%;
+    height: 260px;
+    width: 260px;
+    font-size: 0px;
+}
+
+.mago:hover {
+    filter: invert(100%) drop-shadow(0px 0px 50px rgb(50, 4, 255));
+    left: 40%;
+    top: 34%;
+    height: 260px;
+    width: 260px;
+    font-size: 0px;
+}
+
+.adc:hover {
+    filter: invert(100%) drop-shadow(0px 0px 50px rgb(26, 151, 10));
+    left: 56%;
+    top: 34%;
+    height: 260px;
+    width: 260px;
+    font-size: 0px;
+}
+
+.sup:hover {
+    filter: invert(100%) drop-shadow(0px 0px 50px rgb(0, 255, 221));
+    left: 72%;
+    top: 34%;
+    height: 260px;
+    width: 260px;
+    font-size: 0px;
+}
+
+.tank:hover {
+    filter: invert(100%) drop-shadow(0px 0px 50px rgb(0, 140, 255));
+    left: 89%;
+    top: 34%;
+    height: 260px;
+    width: 260px;
+    font-size: 0px;
+}
